@@ -1,0 +1,5 @@
+.nyc_output
+.vscode
+log
+.idea
+/node_modules
